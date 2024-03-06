@@ -1,0 +1,11 @@
+Model Information:
+* title:	Maruti Suzuki XL6
+* source:	https://sketchfab.com/3d-models/maruti-suzuki-xl6-ad54d15a3d774889bc3c4b095e9896dd
+* author:	BHP3D (https://sketchfab.com/BHP3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Maruti Suzuki XL6" (https://sketchfab.com/3d-models/maruti-suzuki-xl6-ad54d15a3d774889bc3c4b095e9896dd) by BHP3D (https://sketchfab.com/BHP3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
